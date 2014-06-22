@@ -3,3 +3,9 @@
 body {
 	margin-bottom: 80px;
 }
+
+.container .jumbotron {
+	display: none;
+}
+
+/*test commit*/
